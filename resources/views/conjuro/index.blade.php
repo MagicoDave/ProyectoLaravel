@@ -18,7 +18,7 @@
 
                              <div class="float-right">
                                 <a href="{{ route('conjuros.create') }}" class="button brown small"  data-placement="left">
-                                  {{ __('Create New') }}
+                                  {{ __('Nuevo conjuro') }}
                                 </a>
                               </div>
                         </div>
@@ -34,7 +34,7 @@
                             <table class="custom-table">
                                 <thead class="thead">
                                     <tr>
-                                        <th>No</th>
+                                        <th>Nº</th>
 
 										<th>Nombre</th>
 										<th>Nivel</th>

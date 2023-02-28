@@ -11,7 +11,7 @@
                 <div class="card">
                     <div class="card-header">
                         <div class="float-left">
-                            <h1>Show Escuela</h1>
+                            <h1>Mostrar escuela</h1>
                         </div>
 
                     </div>
@@ -23,7 +23,7 @@
                             {{ $escuela->nombre }}
                         </div>
                         <div class="float-right">
-                            <a class="button orange small" href="{{ route('escuelas.index') }}"> Back</a>
+                            <a class="button orange small" href="{{ route('escuelas.index') }}"> Retroceder</a>
                         </div>
                     </div>
                 </div>

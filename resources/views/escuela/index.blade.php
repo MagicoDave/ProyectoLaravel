@@ -34,7 +34,7 @@
                             <table class="custom-table">
                                 <thead class="thead">
                                     <tr>
-                                        <th>No</th>
+                                        <th>Nº</th>
 
 										<th>Nombre</th>
 

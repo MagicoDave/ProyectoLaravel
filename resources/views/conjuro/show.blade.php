@@ -11,7 +11,7 @@
                 <div class="card">
                     <div class="card-header">
                         <div class="float-left">
-                            <h1>Show Conjuro</h1>
+                            <h1>Mostrar conjuro</h1>
                         </div>
 
                     </div>
@@ -35,7 +35,7 @@
                             {{ $conjuro->descripción }}
                         </div>
                         <div class="float-right">
-                            <a class="button orange small " href="{{ route('conjuros.index') }}"> Back</a>
+                            <a class="button orange small " href="{{ route('conjuros.index') }}"> Retroceder</a>
                         </div>
                     </div>
                 </div>

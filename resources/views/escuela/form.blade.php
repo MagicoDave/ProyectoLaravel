@@ -9,6 +9,6 @@
 
     </div>
     <div class="buttons">
-        <button type="submit" class="brown">Submit</button>
+        <button type="submit" class="brown">Actualizar</button>
     </div>
 </div>

@@ -13,7 +13,7 @@
 
                 <div class="card card-default">
                     <div class="card-header">
-                        <h1>Create Conjuro</h1>
+                        <h1>Crear Conjuro</h1>
                     </div>
                     <div class="card-body">
                         <form method="POST" action="{{ route('conjuros.store') }}"  role="form" enctype="multipart/form-data">
